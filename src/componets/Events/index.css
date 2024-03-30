@@ -1,0 +1,313 @@
+.events-container {
+  background-color: rgb(214, 223, 230);
+  background-size: cover;
+  height: 800vh;
+}
+.wedding-photo {
+  width: 347px;
+  height: 491px;
+  top: 285.68px;
+  left: 223px;
+  gap: 0px;
+  border-radius: 241px 241px 0px 0px;
+  opacity: 0px;
+}
+.wedding-image-layout {
+  display: flex;
+  margin-top: 15px;
+}
+.home-container {
+  display: flex;
+  background-color: rgb(214, 223, 230);
+  box-sizing: 0px 4px 16px 0px #bfbfbf;
+}
+.flower-bottom {
+  width: 200px;
+  height: 200.5px;
+  top: 650.68px;
+  left: 90px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-end;
+}
+.flower-top {
+  width: 279px;
+  height: 266px;
+  top: 270px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-start;
+  margin-left: 0px;
+}
+.together-photo {
+  width: 224px;
+  height: 224px;
+  top: 696.68px;
+  left: 552px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: flex-end;
+  margin-right: 0px;
+}
+.names-container {
+  margin-left: 17%;
+  margin-top: 7%;
+  font-size: 10px;
+}
+.welcome-note {
+  width: 321.83px;
+  height: 82.44px;
+  top: 404px;
+  left: 864px;
+  gap: 0px;
+  opacity: 0px;
+  color: #000000;
+  text-align: center;
+  font-weight: 400;
+}
+.together-text-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.couple-names-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+  align-items: center;
+}
+.couple-name {
+  font-family: "Fantasy", Cursive;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 35px;
+}
+.couple-wife {
+  font-family: "Fantasy", Cursive;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: left;
+}
+.flower-right {
+  width: 120px;
+  height: 120px;
+  align-self: flex-end;
+}
+.wedding-bg-container {
+  margin-top: 7%;
+}
+.frame-1 {
+  margin-top: 15px;
+  margin-bottom: 5%;
+}
+.save-date-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 542px;
+  width: 90%;
+}
+.frame-2 {
+  margin-top: 15px;
+  margin-top: 12%;
+}
+.save-date-heading {
+  color: #000000;
+  font-family: cursive;
+  text-align: center;
+  font-size: 40px;
+}
+.date-items {
+  color: #000000;
+  font-weight: 500;
+  display: flex;
+  margin: 5px;
+  font-size: 29px;
+  margin-top: 25px;
+}
+.hr {
+  margin: 10px;
+  width: 3px;
+  background-color: #000000;
+  border-width: 0px;
+}
+.line {
+  margin-top: 15%;
+  width: 70%;
+  height: 2px;
+  background-color: #000000;
+}
+.venue-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.venue-heading {
+  font-family: Georgia;
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 30.68px;
+  letter-spacing: 0.22em;
+  text-align: left;
+}
+.venue-description {
+  text-align: center;
+  font-family: Calibri;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0.16em;
+  text-align: center;
+}
+.venue-button {
+  background-color: #2a2a2a;
+  color: white;
+  width: 10%;
+  height: 35px;
+  border-width: 0px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+.how-we-met-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.how-we-met {
+  font-family: cursive;
+  font-size: 61px;
+  font-weight: 400;
+  line-height: 76.37px;
+  text-align: left;
+}
+.met-date {
+  font-family: Calibri;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0.16em;
+  text-align: center;
+}
+.met-flower-1 {
+  align-self: flex-end;
+}
+.met-content {
+  font-family: Georgia;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: center;
+  width: 60%;
+}
+.met-container-1 {
+  display: flex;
+}
+.met-flower-2 {
+  align-self: center;
+}
+.met-container {
+  display: flex;
+}
+.how-met-flower-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image-container {
+  background-image: url("https://res.cloudinary.com/dlsuy2qn2/image/upload/v1711721499/Rectangle_10_cjypwg.png");
+  background-size: cover;
+  height: 110vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-bg-container {
+  padding: 6%;
+}
+.gift-button {
+  background-color: #2a2a2a;
+  color: white;
+  height: 45px;
+  width: 200%;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.location-container {
+  background-image: url("https://res.cloudinary.com/dlsuy2qn2/image/upload/v1711723681/Rectangle_19_hvcbfl.png");
+  background-size: cover;
+  height: 100vh;
+  margin-top: 29px;
+}
+.gallery-name-container {
+  display: flex;
+}
+.gallery-heading {
+  font-family: cursive;
+  font-size: 61px;
+  font-weight: 400;
+  line-height: 76.37px;
+  text-align: left;
+  margin-left: 35%;
+}
+.album-layout {
+  display: flex;
+  justify-content: center;
+}
+.album-1 {
+  width: 278px;
+  height: 542px;
+  top: 4130px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 0px;
+  margin: 5px;
+}
+.album-2 {
+  width: 485px;
+  height: 256px;
+  top: 4130px;
+  left: 428px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 5px;
+}
+
+.album-3 {
+  width: 277px;
+  height: 256px;
+  top: 4130px;
+  left: 1043px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 5px;
+}
+.album-4 {
+  width: 277px;
+  height: 256px;
+  top: 4416px;
+  left: 428px;
+  gap: 0px;
+  opacity: 0px;
+}
+.album-5 {
+  width: 278px;
+  height: 542px;
+  top: 4416px;
+  left: 735px;
+  gap: 0px;
+  opacity: 0px;
+  margin: 5px;
+}
+.bottom-flower-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.bottom-flower {
+  align-self: flex-end;
+  margin-left: 85%;
+}
